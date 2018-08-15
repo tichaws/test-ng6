@@ -1,0 +1,19 @@
+.sidenav-container {
+  height: 100%;
+}
+
+/* @media screen and (max-width: 940px){
+  .sidenav-container {
+    position: unset;
+  }
+  
+} */
+
+.sidenav {
+  width: 200px;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+}
